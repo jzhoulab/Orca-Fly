@@ -3,7 +3,7 @@ The repository contains code for Orca-Fly, an adaptiation of Orca frameworks for
 
 
 ## Install and run Orca-Fly locally
-Please follow the instructions at [Orca][https://github.com/jzhoulab/orca/] to set up the Python environment.
+Please follow the instructions at Orca [https://github.com/jzhoulab/orca/] to set up the Python environment.
 
 ## Predict with pretrained models
 Please download the dataset and pretrained model weight by the link [TBD]. You can use `predict.ipynb` to get predictions of interested regions.
