@@ -2,7 +2,7 @@
 The repository contains code for Orca-Fly, an adaptiation of Orca frameworks for multi-scale genome structure prediction in early Drosophila embryogenesis.
 
 ## Get started
-If you just need predictions for one or a handful of variants, we have provided the core functionalities on a web server: [orcafly.zhoulab.io].
+If you just need predictions for one or a handful of variants, we have provided the core functionalities on a [web server](orcafly.zhoulab.io).
 
 ## Install and run Orca-Fly locally
 #### Pre-requisites: Python environment and Selene library.
